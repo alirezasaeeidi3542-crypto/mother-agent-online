@@ -1,7 +1,7 @@
 import React, { useEffect, useRef, useState } from "react";
 
 // جایگزین کن:
-const API_URL = "https://mlklwxbqakyovoqxaccx.supabase.co/functions/v1/agent_mother";
+const API_URL = "https://mlklwxbqakyovoqxaccx.supabase.co/functions/v1/agent_mother"; // replace if different
 const AUTH_ID = "REPLACE_WITH_AUTH_ID";
 
 export default function MotherAgentChat() {
